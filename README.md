@@ -8,7 +8,7 @@ generate a usable object graph. Braskit\Diff solves this problem by providing
 the needed glue between the two libraries.
 
 [1]: https://github.com/sebastianbergmann/diff
-[2]: https://github.com/chrisboulton/php-diff
+[2]: https://github.com/phpspec/php-diff
 
 ## Usage
 
