@@ -1,4 +1,4 @@
-# Braskit\Diff
+# Braskit\Diff [![Build Status](https://travis-ci.org/Braskit/Diff.svg?branch=master)](https://travis-ci.org/Braskit/Diff)
 
 **Braskit\Diff** is a PHP library which diffs two strings and generates an
 object graph. It was conceived because [Sebastian Bergmann's Diff library][1]
