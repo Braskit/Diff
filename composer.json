@@ -1,0 +1,29 @@
+{
+    "name": "braskit/diff",
+    "description": "Diffs two strings and generates an object graph",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Frank Usrs",
+            "email": "frankusrs@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4",
+        "phpspec/php-diff": "~1.0",
+        "sebastian/diff": "1.3.*@dev"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Braskit\\Diff\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Braskit\\Diff\\Tests\\": "tests/"
+        }
+    }
+}
